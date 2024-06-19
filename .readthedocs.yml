@@ -1,6 +1,14 @@
 version: 2
 formats: all
+build:
+    os: ubuntu-24.04
+    tools:
+        python: "3.12"
+    apt_packages:
+        - dotnet-sdk-8.0
 python:
-  version: 3.7
-html:
-  directory: docs/_site
+  install:
+    - requirements: docs/requirements.txt  
+    - method: pip
+sphinx:
+  configuration: docs/conf.py
