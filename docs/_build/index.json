@@ -1,0 +1,27 @@
+{
+  "api/UuidGenerator.UuidGenerator.html": {
+    "href": "api/UuidGenerator.UuidGenerator.html",
+    "title": "Class UuidGenerator | mysite",
+    "keywords": "Class UuidGenerator Namespace UuidGenerator Assembly UuidGenerator.dll A utility class for generating UUIDs. public static class UuidGenerator Inheritance object UuidGenerator Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods NewUuid4() Generates a new UUIDv4. public static Guid NewUuid4() Returns Guid A new UUIDv4 Guid. NewUuid7() Generates a new UUIDv7 based on the current UTC time. public static Guid NewUuid7() Returns Guid A new UUIDv7 Guid. NewUuid7(DateTimeOffset) Generates a new UUIDv7 based on the specified date and time. public static Guid NewUuid7(DateTimeOffset dateTimeOffset) Parameters dateTimeOffset DateTimeOffset The date and time to base the UUIDv7 on. Returns Guid A new UUIDv7 Guid."
+  },
+  "api/UuidGenerator.html": {
+    "href": "api/UuidGenerator.html",
+    "title": "Namespace UuidGenerator | mysite",
+    "keywords": "Namespace UuidGenerator Classes UuidGenerator A utility class for generating UUIDs."
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | mysite",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | mysite",
+    "keywords": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | mysite",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}

@@ -1,0 +1,47 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: UuidGenerator
+  name: UuidGenerator
+  href: api/UuidGenerator.html
+  commentId: N:UuidGenerator
+  fullName: UuidGenerator
+  nameWithType: UuidGenerator
+- uid: UuidGenerator.UuidGenerator
+  name: UuidGenerator
+  href: api/UuidGenerator.UuidGenerator.html
+  commentId: T:UuidGenerator.UuidGenerator
+  fullName: UuidGenerator.UuidGenerator
+  nameWithType: UuidGenerator
+- uid: UuidGenerator.UuidGenerator.NewUuid4
+  name: NewUuid4()
+  href: api/UuidGenerator.UuidGenerator.html#UuidGenerator_UuidGenerator_NewUuid4
+  commentId: M:UuidGenerator.UuidGenerator.NewUuid4
+  fullName: UuidGenerator.UuidGenerator.NewUuid4()
+  nameWithType: UuidGenerator.NewUuid4()
+- uid: UuidGenerator.UuidGenerator.NewUuid4*
+  name: NewUuid4
+  href: api/UuidGenerator.UuidGenerator.html#UuidGenerator_UuidGenerator_NewUuid4_
+  commentId: Overload:UuidGenerator.UuidGenerator.NewUuid4
+  isSpec: "True"
+  fullName: UuidGenerator.UuidGenerator.NewUuid4
+  nameWithType: UuidGenerator.NewUuid4
+- uid: UuidGenerator.UuidGenerator.NewUuid7
+  name: NewUuid7()
+  href: api/UuidGenerator.UuidGenerator.html#UuidGenerator_UuidGenerator_NewUuid7
+  commentId: M:UuidGenerator.UuidGenerator.NewUuid7
+  fullName: UuidGenerator.UuidGenerator.NewUuid7()
+  nameWithType: UuidGenerator.NewUuid7()
+- uid: UuidGenerator.UuidGenerator.NewUuid7(System.DateTimeOffset)
+  name: NewUuid7(DateTimeOffset)
+  href: api/UuidGenerator.UuidGenerator.html#UuidGenerator_UuidGenerator_NewUuid7_System_DateTimeOffset_
+  commentId: M:UuidGenerator.UuidGenerator.NewUuid7(System.DateTimeOffset)
+  fullName: UuidGenerator.UuidGenerator.NewUuid7(System.DateTimeOffset)
+  nameWithType: UuidGenerator.NewUuid7(DateTimeOffset)
+- uid: UuidGenerator.UuidGenerator.NewUuid7*
+  name: NewUuid7
+  href: api/UuidGenerator.UuidGenerator.html#UuidGenerator_UuidGenerator_NewUuid7_
+  commentId: Overload:UuidGenerator.UuidGenerator.NewUuid7
+  isSpec: "True"
+  fullName: UuidGenerator.UuidGenerator.NewUuid7
+  nameWithType: UuidGenerator.NewUuid7
